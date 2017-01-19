@@ -1,0 +1,13 @@
+[
+  {
+    title: 'quickStartSeed'
+    group: 'puchdor'
+    paths: [
+      '/Users/rasengan/Workspace/angular/quickStartSeed/'
+    ]
+    devMode: true
+    settings:
+      'editor.tabLength': 4
+      'editor.showInvisibles': true
+  }
+]
